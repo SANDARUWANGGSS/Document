@@ -1,0 +1,10 @@
+package Codes;
+
+public class Test1 {
+	public static void main(String args[])
+	{
+		Long i = new Long(1L);
+		String s = new String("abc");
+		System.out.println(s);
+	}
+}
